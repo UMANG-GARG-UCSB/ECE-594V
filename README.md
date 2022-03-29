@@ -1,6 +1,6 @@
 # Probabilistic Computing Course (ECE 594-V)
 
-Some key-terms:
+Some keywords:
 
 - Markov Chains and Computations,
 - Heat bath Algorithm,
